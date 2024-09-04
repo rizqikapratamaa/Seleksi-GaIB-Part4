@@ -1,4 +1,3 @@
-# environment.py
 import numpy as np
 
 BOARD_LENGTH = 10 # panjang board, mulai dari 0

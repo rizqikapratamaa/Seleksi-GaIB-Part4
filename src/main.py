@@ -1,4 +1,3 @@
-# main.py
 from environment import Environment
 from agent import QLearning, SARSA
 
